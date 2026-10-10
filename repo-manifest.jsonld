@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/tiangolo/pydantic-sqlalchemy/commit/3632b4131723a1899c507654ff56d168e82dd284",
       "git:hexsha": "3632b4131723a1899c507654ff56d168e82dd284",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/tiangolo/pydantic-sqlalchemy/commit/658ec5939baa8548e9fea00240da0022fb6e38ab",
