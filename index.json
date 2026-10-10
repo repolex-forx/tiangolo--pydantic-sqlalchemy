@@ -1,0 +1,11 @@
+{
+  "org": "tiangolo",
+  "repo": "pydantic-sqlalchemy",
+  "versions": [
+    {
+      "commit": "3632b4131723a1899c507654ff56d168e82dd284",
+      "tag": "",
+      "parsed_at": "2026-10-10T04:11:31.689621+00:00"
+    }
+  ]
+}
